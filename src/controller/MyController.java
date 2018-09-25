@@ -11,6 +11,10 @@ public class MyController
 		
 	}
 	
+	/**
+	 *  This is where the program starts callilng methods to run the program
+	 */
+	
 	public void start()
 	{
 		
